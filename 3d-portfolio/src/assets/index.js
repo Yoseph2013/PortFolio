@@ -1,4 +1,4 @@
-import logo from "./logo.svg";
+import Ylogo from "./Ylogo.svg";
 import backend from "./backend.png";
 import creator from "./creator.png";
 import mobile from "./mobile.png";
@@ -25,13 +25,17 @@ import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
+import pos from "./company/4pos.png";
+import theo from "./company/theo.jpg";
+import alpha from "./company/alpha.jpg";
+import palisades from "./company/palisades.jpg";
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 
 export {
-  logo,
+Ylogo,
   backend,
   creator,
   mobile,
@@ -59,4 +63,8 @@ export {
   carrent,
   jobit,
   tripguide,
+  pos,
+  theo,
+  alpha,
+  palisades
 };
